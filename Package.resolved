@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kitura-TemplateEngine",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-TemplateEngine.git",
+        "state": {
+          "branch": null,
+          "revision": "8e75a213bf4dd7b5effd03848335e344535969aa",
+          "version": "1.7.2"
+        }
+      },
+      {
+        "package": "Mustache",
+        "repositoryURL": "https://github.com/saagarjha/GRMustache.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "9f141416723a59af15836e93c28f2e74cc5fa0a0",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
